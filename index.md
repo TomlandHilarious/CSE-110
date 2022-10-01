@@ -25,6 +25,6 @@ I have set up a few goals for me to accomplish before I graduate, here is a list
 - [x] become a tutor
 - [ ] receive an internship offer
 - [ ] publish a paper<br />
-  ... <br />
+**...** <br />
 
 ***To me, living in the world is like an adventure for a lifetime and I would love to seek possibilities and explore the amazing things surround me!***
