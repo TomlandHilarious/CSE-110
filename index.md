@@ -1,6 +1,6 @@
 # Ruoxuan Li #
 
-<img src=Ruoxuan_Li.png width=45% height=50%>
+<img src="./Ruoxuan_Li.png" width=45% height=50%>
 
 ## Me As a Programmer
 I am an undergraduate student with a major in *cognitive science with a specialization with machine learning and neural network* and a minor in *computer science* at the __University of California, San Diego__. I have experience as a tutor in both the fields of data science and computer science. My primary coding language is __Python__, and I am familiar with writing code in __Java, C++,__ and __C__. I believe that the purpose of programing or building any technologies is to address the needs of people, so it is important to identify the needs of different groups. My area of interest focuses on analyzing data and using the data to create opportunities and better outcomes for people who create the source of data. <br />
@@ -9,7 +9,7 @@ The areas that I have dedicated to including the following:
 - `Supervised Machine Learning`
 - `Data analysis` <br />
 
-Currently I am interested to explore the field of HCI and hope to apply my interdisplinary knowledge to build technologies that better address people's needs. I am also hoping to learn about front-end and back-end development and would love to get involved in real-world projects.
+Currently I am interested in exploring the field of HCI and hope to apply my interdisplinary knowledge to build technologies that better address people's needs. I am also hoping to learn about front-end and back-end development and would love to get involved in real-world projects.
 [Click here to learn more about me as a Programmer.](https://www.linkedin.com/in/ruoxuan-li-b5386b66/) <br />
 
 
