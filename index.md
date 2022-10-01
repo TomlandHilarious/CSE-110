@@ -19,12 +19,13 @@ I also enjoy __reading__. My favorite author is the German author __Hermann Hess
 >“I have had to experience so much stupidity, so many vices, so much error, so much nausea, disillusionment and sorrow, just in order to become a child again and begin anew. I had to experience despair, I had to sink to the greatest mental depths, to thoughts of suicide, in order to experience grace.”<br />
 
 I have set up a few goals for me to accomplish before I graduate, here is a list:
-[ ] get my driver's liscence
-[x] become a researcher
-[x] get to know amazing people
-[x] become a tutor
-[ ] receive an internship offer
-[ ] publish a paper<br />
+- [ ] get my driver's liscence
+- [x] become a researcher
+- [x] get to know amazing people
+- [x] become a tutor
+- [ ] receive an internship offer
+- [ ] publish a paper
+
 **...** <br />
 
 ***To me, living in the world is like an adventure for a lifetime and I would love to seek possibilities and explore the amazing things surround me!***
